@@ -1,7 +1,7 @@
 # CSC 413 - Project Two - The Interpreter
 
-## Student Name  : Name here
+## Student Name  : Moataz Affan
 
-## Student ID    : ID here
+## Student ID    : 916231373
 
-## Student Email : Email here
+## Student Email : maffan@mail.sfsu.edu

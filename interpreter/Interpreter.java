@@ -29,7 +29,7 @@ public class Interpreter {
         }
     }
 
-    void run() {
+    void run()  {
         Program program = bcl.loadCodes();
         VirtualMachine vm = new VirtualMachine(program);
         vm.executeProgram();
@@ -38,7 +38,7 @@ public class Interpreter {
     public static void main(String args[]) {
 
         if (args.length == 0) {
-            System.out.println("***Incorrect usage, try: java interpreter.Interpreter <file>");
+           System.out.println("***Incorrect usage, try: java interpreter.Interpreter <file>");
             System.exit(1);
         }
         (new Interpreter(args[0])).run();
