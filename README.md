@@ -1,7 +1,7 @@
-# CSC 413 - Project Two - The Interpreter
+CSC Software Development: Project 2 (The Interpreter)
 
-## Student Name  : Moataz Affan
+By: Moataz Affan
 
-## Student ID    : 916231373
 
-## Student Email : maffan@mail.sfsu.edu
+The interpreter works as a compiler to parse and execute bytecode files for a mock language "X".
+All the functions in the mock language (.x files) perform assembly operations within the Virtual Machine.
